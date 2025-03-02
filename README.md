@@ -1,11 +1,11 @@
 
 # ShoppyGlobe Application
-A simple Todo List app built with React.
+A simple Shoppy Globe Ecommerce app built with React.
 ## Getting Started
 
 1. Clone the repository
 
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Madhumita-15062020/ShoppyGlobe-App.git
 
    cd ShoppyGlobe-app
 
